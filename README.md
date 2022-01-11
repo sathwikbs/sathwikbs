@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning GAN.
 
-- 💞️ I’m looking to collaborate on computer vision algorithm on aerial and satellite images.
+- 💞️ I’m looking to collaborate on computer vision algorithm for aerial and satellite images.
 
 
 
