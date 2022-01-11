@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sathwikbs
-A coding enthusiast with an understanding of mathematics and deep learning looking to be part of a new and exciting environment and be able to further my research and utilize my abilities.
+- 👋 Hi, I’m @sathwikbs a coding enthusiast
 
 - 👀 I’m interested in computer vision and Geographic Information System
 
