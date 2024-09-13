@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sathwikbs a coding enthusiast
 
-- 👀 I’m interested in computer vision and Geographic Information System
+- 👀 I’m interested in genAI.
 
-- 🌱 I’m currently learning GAN.
+- 🌱 I’m currently learning everything.
 
-- 💞️ I’m looking to collaborate on computer vision algorithm for aerial and satellite images.
+- 💞️ I’m looking to collaborate on developing robust GenAI applications for impactful cases.
 
 
 
